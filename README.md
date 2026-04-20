@@ -2,7 +2,12 @@
   <img src="Hình ảnh GIF 3.gif" alt="Hồ sơ Duc Vuong Dinh - Thành phố Cyberpunk với thông tin tích hợp" width="100%">
 </p>
 
+# 💫 About Me
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5433FF&width=500&lines=Backend+Engineer;International+IT+Student;Embedded+Systems+Enthusiast;Japanese+N1+Learner" />
+</p>
 
+---
 
 ## 📜 Certificates
 
