@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hình ảnh GIF.gif" alt="Hồ sơ Duc Vuong Dinh - Thành phố Cyberpunk với thông tin tích hợp" width="100%">
+  <img src="Hình ảnh GIF 3.gif" alt="Hồ sơ Duc Vuong Dinh - Thành phố Cyberpunk với thông tin tích hợp" width="100%">
 </p>
 
 
